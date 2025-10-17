@@ -2,7 +2,7 @@
 
 // token.sol -- I frobbed an inc and all I got was this lousy token
 
-// Copyright (C) 2022 Horsefacts <horsefacts@terminally.online>
+// Copyright (C) 2024 Sol <johnsmithy4k-bit@terminally.online>
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
